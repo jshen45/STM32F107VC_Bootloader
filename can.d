@@ -1,0 +1,49 @@
+.\can.o: scr\Can\can.c
+.\can.o: .\scr\main.h
+.\can.o: D:\Program Files\ARM\ADSv1_2\INCLUDE\stdio.h
+.\can.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x_conf.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\can.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+.\can.o: ..\Libraries\CMSIS\Core\CM3\core_cm3.h
+.\can.o: D:\Program Files\ARM\ADSv1_2\INCLUDE\stdint.h
+.\can.o: ..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
+.\can.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x_conf.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\can.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\can.o: .\scr\Include\Common_Types.h
+.\can.o: D:\Program Files\ARM\ADSv1_2\INCLUDE\stdlib.h
+.\can.o: D:\Program Files\ARM\ADSv1_2\INCLUDE\string.h
+.\can.o: scr\Can\Can.h
+.\can.o: .\scr\Include\Common_Types.h
+.\can.o: scr\Can\Can_GeneralTypes.h
+.\can.o: scr\Can\Can_Cfg.h
+.\can.o: scr\Can\Can.h
+.\can.o: .\scr\CanIf\CanIf_Cfg.h
+.\can.o: .\scr\CanIf\CanIf_Types.h
+.\can.o: .\scr\Include\Common_Types.h
+.\can.o: .\scr\CanIf\CanIf.h
+.\can.o: .\scr\CanIf\CanIf_Cfg.h
+.\can.o: .\scr\CanIf\CanIf_Types.h
+.\can.o: .\scr\Include\Common_Types.h
+.\can.o: .\scr\CanTp\CanTp.h
+.\can.o: .\scr\Include\Common_Types.h
+.\can.o: .\scr\CanTp\CanTp_Cfg.h
